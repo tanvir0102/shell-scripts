@@ -1,7 +1,7 @@
 #!/bin/bash
 #My first bash script
 
-echo "Hello Workd ...!!"
+echo "Hello World ...!!"
 echo $SHELL
 echo `date`
 
